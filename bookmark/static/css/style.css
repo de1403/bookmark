@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: rgb(228, 228, 114);
+}
+/* .container {
+    box-sizing: border-box;
+    width:50%;
+    height:120%;
+    background-color: rgb(224, 135, 113);
+
+    padding: 4rem 5rem;
+} */
+h1{
+    color: rgb(64, 100, 23);
+    font-family: 'Lobster';
+} 
